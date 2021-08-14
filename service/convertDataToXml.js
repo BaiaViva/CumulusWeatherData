@@ -57,4 +57,3 @@ function updateCredits(){
 }
 data = getData();
 setData(data);
-// Hello World Gabriel comment

@@ -33,8 +33,6 @@ sudo apt install docker-compose
 ```
 ## Baixar e executar localmente os projetos do repositório
 
-Você vai baixar e configurar os projetos de acordo com o que você for precisar.
-
 ### Baixar
 
 ```shell
@@ -47,7 +45,7 @@ git clone https://github.com/BaiaViva/CumulusWeatherData.git
 sudo docker-compose up -d
 ```
 
-Agora, execute:
+E agora, execute:
 
 ```shell
 sudo docker exec -it cumulus_weather_data bash

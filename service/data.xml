@@ -29,256 +29,256 @@
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="211.3" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="5.3" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.9"></temperature>
-                <pressure unit="hPa" value="1014.9"></pressure>
+                <temperature unit="celsius" value="26.2"></temperature>
+                <pressure unit="hPa" value="1024.6"></pressure>
             </time>
             <time from="2021-07-03T16:00:00" to="2021-07-03T17:00:00">
                 <symbol number="2" numberEx="2" name="Fair" var="02d"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="211.8" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="5.5" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.5"></temperature>
-                <pressure unit="hPa" value="1014.8"></pressure>
+                <temperature unit="celsius" value="25.6"></temperature>
+                <pressure unit="hPa" value="1024.3"></pressure>
             </time>
             <time from="2021-07-03T17:00:00" to="2021-07-03T18:00:00">
                 <symbol number="5" numberEx="40" name="Light rain showers" var="40d"></symbol>
                 <precipitation value="0.2"></precipitation>
                 <windDirection deg="216.9" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="5.6" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="24.1"></temperature>
-                <pressure unit="hPa" value="1014.6"></pressure>
+                <temperature unit="celsius" value="25.7"></temperature>
+                <pressure unit="hPa" value="1023.9"></pressure>
             </time>
             <time from="2021-07-03T18:00:00" to="2021-07-03T19:00:00">
                 <symbol number="5" numberEx="40" name="Light rain showers" var="40d"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="215.7" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="5.8" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1014.5"></pressure>
+                <temperature unit="celsius" value="25.9"></temperature>
+                <pressure unit="hPa" value="1023.6"></pressure>
             </time>
             <time from="2021-07-03T19:00:00" to="2021-07-03T20:00:00">
                 <symbol number="2" numberEx="2" name="Fair" var="02d"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="213.1" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="5.5" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.6"></temperature>
-                <pressure unit="hPa" value="1014.3"></pressure>
+                <temperature unit="celsius" value="25.6"></temperature>
+                <pressure unit="hPa" value="1023.2"></pressure>
             </time>
             <time from="2021-07-03T20:00:00" to="2021-07-03T21:00:00">
                 <symbol number="2" numberEx="2" name="Fair" var="02d"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="211.2" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.9" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.9"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="26.1"></temperature>
+                <pressure unit="hPa" value="1023.2"></pressure>
             </time>
             <time from="2021-07-03T21:00:00" to="2021-07-03T22:00:00">
                 <symbol number="2" numberEx="2" name="Fair" var="02d"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="207.5" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.0" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1014.2"></pressure>
+                <temperature unit="celsius" value="25.5"></temperature>
+                <pressure unit="hPa" value="1023.1"></pressure>
             </time>
             <time from="2021-07-03T22:00:00" to="2021-07-03T23:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="205.6" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.1" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="24.1"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="25.8"></temperature>
+                <pressure unit="hPa" value="1022.9"></pressure>
             </time>
             <time from="2021-07-03T23:00:00" to="2021-07-04T00:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="208.1" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.0" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1014.0"></pressure>
+                <temperature unit="celsius" value="26.1"></temperature>
+                <pressure unit="hPa" value="1022.8"></pressure>
             </time>
             <time from="2021-07-04T00:00:00" to="2021-07-04T01:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="209.6" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.6" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1014.0"></pressure>
+                <temperature unit="celsius" value="25.8"></temperature>
+                <pressure unit="hPa" value="1022.7"></pressure>
             </time>
             <time from="2021-07-04T01:00:00" to="2021-07-04T02:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="213.5" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.5" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.8"></temperature>
-                <pressure unit="hPa" value="1013.8"></pressure>
+                <temperature unit="celsius" value="26.6"></temperature>
+                <pressure unit="hPa" value="1022.6"></pressure>
             </time>
             <time from="2021-07-04T02:00:00" to="2021-07-04T03:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="216.5" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.2" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1013.9"></pressure>
+                <temperature unit="celsius" value="25.9"></temperature>
+                <pressure unit="hPa" value="1022.6"></pressure>
             </time>
             <time from="2021-07-04T03:00:00" to="2021-07-04T04:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="215.9" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.3" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="24.0"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="26.2"></temperature>
+                <pressure unit="hPa" value="1022.5"></pressure>
             </time>
             <time from="2021-07-04T04:00:00" to="2021-07-04T05:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="211.5" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.0" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="26.4"></temperature>
+                <pressure unit="hPa" value="1022.5"></pressure>
             </time>
             <time from="2021-07-04T05:00:00" to="2021-07-04T06:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="207.0" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="2.8" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1014.0"></pressure>
+                <temperature unit="celsius" value="26.2"></temperature>
+                <pressure unit="hPa" value="1022.5"></pressure>
             </time>
             <time from="2021-07-04T06:00:00" to="2021-07-04T07:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.2"></precipitation>
                 <windDirection deg="188.4" code="S" name="South"></windDirection>
                 <windSpeed mps="2.5" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="23.8"></temperature>
-                <pressure unit="hPa" value="1013.8"></pressure>
+                <temperature unit="celsius" value="26.7"></temperature>
+                <pressure unit="hPa" value="1022.6"></pressure>
             </time>
             <time from="2021-07-04T07:00:00" to="2021-07-04T08:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.7"></precipitation>
                 <windDirection deg="197.0" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.3" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1013.9"></pressure>
+                <temperature unit="celsius" value="26.1"></temperature>
+                <pressure unit="hPa" value="1022.5"></pressure>
             </time>
             <time from="2021-07-04T08:00:00" to="2021-07-04T09:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.9"></precipitation>
                 <windDirection deg="195.3" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.0" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.9"></temperature>
-                <pressure unit="hPa" value="1013.9"></pressure>
+                <temperature unit="celsius" value="25.9"></temperature>
+                <pressure unit="hPa" value="1022.7"></pressure>
             </time>
             <time from="2021-07-04T09:00:00" to="2021-07-04T10:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.6"></precipitation>
                 <windDirection deg="186.4" code="S" name="South"></windDirection>
                 <windSpeed mps="4.1" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.2"></temperature>
-                <pressure unit="hPa" value="1014.0"></pressure>
+                <temperature unit="celsius" value="25.9"></temperature>
+                <pressure unit="hPa" value="1022.6"></pressure>
             </time>
             <time from="2021-07-04T10:00:00" to="2021-07-04T11:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.2"></precipitation>
                 <windDirection deg="200.2" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.1" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="25.4"></temperature>
+                <pressure unit="hPa" value="1022.8"></pressure>
             </time>
             <time from="2021-07-04T11:00:00" to="2021-07-04T12:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.8"></precipitation>
                 <windDirection deg="199.3" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.8" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.7"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="26.0"></temperature>
+                <pressure unit="hPa" value="1023.0"></pressure>
             </time>
             <time from="2021-07-04T12:00:00" to="2021-07-04T13:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.3"></precipitation>
                 <windDirection deg="199.3" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="4.5" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="25.2"></temperature>
+                <pressure unit="hPa" value="1022.9"></pressure>
             </time>
             <time from="2021-07-04T13:00:00" to="2021-07-04T14:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="208.8" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="5.5" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.9"></temperature>
-                <pressure unit="hPa" value="1014.4"></pressure>
+                <temperature unit="celsius" value="25.2"></temperature>
+                <pressure unit="hPa" value="1023.2"></pressure>
             </time>
             <time from="2021-07-04T14:00:00" to="2021-07-04T15:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="218.6" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="5.2" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.2"></temperature>
-                <pressure unit="hPa" value="1014.6"></pressure>
+                <temperature unit="celsius" value="25.3"></temperature>
+                <pressure unit="hPa" value="1023.2"></pressure>
             </time>
             <time from="2021-07-04T15:00:00" to="2021-07-04T16:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="217.9" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="5.9" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.3"></temperature>
-                <pressure unit="hPa" value="1014.8"></pressure>
+                <temperature unit="celsius" value="24.8"></temperature>
+                <pressure unit="hPa" value="1023.2"></pressure>
             </time>
             <time from="2021-07-04T16:00:00" to="2021-07-04T17:00:00">
                 <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="215.7" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="6.6" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.7"></temperature>
-                <pressure unit="hPa" value="1015.0"></pressure>
+                <temperature unit="celsius" value="25.3"></temperature>
+                <pressure unit="hPa" value="1023.6"></pressure>
             </time>
             <time from="2021-07-04T17:00:00" to="2021-07-04T18:00:00">
                 <symbol number="2" numberEx="2" name="Fair" var="02d"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="217.8" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="6.6" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.2"></temperature>
-                <pressure unit="hPa" value="1015.1"></pressure>
+                <temperature unit="celsius" value="24.5"></temperature>
+                <pressure unit="hPa" value="1023.8"></pressure>
             </time>
             <time from="2021-07-04T18:00:00" to="2021-07-04T19:00:00">
                 <symbol number="5" numberEx="40" name="Light rain showers" var="40d"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="215.4" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="6.0" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.9"></temperature>
-                <pressure unit="hPa" value="1015.3"></pressure>
+                <temperature unit="celsius" value="24.7"></temperature>
+                <pressure unit="hPa" value="1024.1"></pressure>
             </time>
             <time from="2021-07-04T19:00:00" to="2021-07-04T20:00:00">
                 <symbol number="5" numberEx="40" name="Light rain showers" var="40d"></symbol>
                 <precipitation value="0.2"></precipitation>
                 <windDirection deg="217.7" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="6.0" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.2"></temperature>
-                <pressure unit="hPa" value="1015.5"></pressure>
+                <temperature unit="celsius" value="24.8"></temperature>
+                <pressure unit="hPa" value="1024.0"></pressure>
             </time>
             <time from="2021-07-04T20:00:00" to="2021-07-04T21:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="224.4" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="5.6" name="Moderate breeze"></windSpeed>
-                <temperature unit="celsius" value="23.4"></temperature>
-                <pressure unit="hPa" value="1015.6"></pressure>
+                <temperature unit="celsius" value="24.4"></temperature>
+                <pressure unit="hPa" value="1024.1"></pressure>
             </time>
             <time from="2021-07-04T21:00:00" to="2021-07-04T22:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="228.1" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.7" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.8"></temperature>
-                <pressure unit="hPa" value="1015.6"></pressure>
+                <temperature unit="celsius" value="24.9"></temperature>
+                <pressure unit="hPa" value="1024.2"></pressure>
             </time>
             <time from="2021-07-04T22:00:00" to="2021-07-04T23:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="233.0" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.7" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="23.5"></temperature>
-                <pressure unit="hPa" value="1015.6"></pressure>
+                <temperature unit="celsius" value="24.2"></temperature>
+                <pressure unit="hPa" value="1024.1"></pressure>
             </time>
             <time from="2021-07-04T23:00:00" to="2021-07-05T00:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
@@ -286,127 +286,127 @@
                 <windDirection deg="233.9" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.9" name="Gentle breeze"></windSpeed>
                 <temperature unit="celsius" value="24.4"></temperature>
-                <pressure unit="hPa" value="1015.6"></pressure>
+                <pressure unit="hPa" value="1024.2"></pressure>
             </time>
             <time from="2021-07-05T00:00:00" to="2021-07-05T01:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="232.2" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.2" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="24.0"></temperature>
-                <pressure unit="hPa" value="1015.6"></pressure>
+                <temperature unit="celsius" value="24.6"></temperature>
+                <pressure unit="hPa" value="1024.3"></pressure>
             </time>
             <time from="2021-07-05T01:00:00" to="2021-07-05T02:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="221.8" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.3" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="24.4"></temperature>
-                <pressure unit="hPa" value="1015.5"></pressure>
+                <temperature unit="celsius" value="24.2"></temperature>
+                <pressure unit="hPa" value="1024.2"></pressure>
             </time>
             <time from="2021-07-05T02:00:00" to="2021-07-05T03:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="219.8" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.0" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="25.1"></temperature>
-                <pressure unit="hPa" value="1015.4"></pressure>
+                <temperature unit="celsius" value="24.7"></temperature>
+                <pressure unit="hPa" value="1024.4"></pressure>
             </time>
             <time from="2021-07-05T03:00:00" to="2021-07-05T04:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="212.7" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.9" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="24.9"></temperature>
-                <pressure unit="hPa" value="1015.1"></pressure>
+                <temperature unit="celsius" value="24.0"></temperature>
+                <pressure unit="hPa" value="1024.5"></pressure>
             </time>
             <time from="2021-07-05T04:00:00" to="2021-07-05T05:00:00">
                 <symbol number="9" numberEx="9" name="Rain" var="09"></symbol>
                 <precipitation value="0.3"></precipitation>
                 <windDirection deg="217.7" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.8" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="25.8"></temperature>
-                <pressure unit="hPa" value="1014.8"></pressure>
+                <temperature unit="celsius" value="24.2"></temperature>
+                <pressure unit="hPa" value="1024.6"></pressure>
             </time>
             <time from="2021-07-05T05:00:00" to="2021-07-05T06:00:00">
                 <symbol number="9" numberEx="46" name="Light rain" var="46"></symbol>
                 <precipitation value="0.2"></precipitation>
                 <windDirection deg="216.4" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.4" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="25.3"></temperature>
-                <pressure unit="hPa" value="1014.6"></pressure>
+                <temperature unit="celsius" value="24.4"></temperature>
+                <pressure unit="hPa" value="1024.4"></pressure>
             </time>
             <time from="2021-07-05T06:00:00" to="2021-07-05T07:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="211.8" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.1" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="25.6"></temperature>
-                <pressure unit="hPa" value="1014.4"></pressure>
+                <temperature unit="celsius" value="24.0"></temperature>
+                <pressure unit="hPa" value="1024.6"></pressure>
             </time>
             <time from="2021-07-05T07:00:00" to="2021-07-05T08:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="211.0" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="3.5" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="26.1"></temperature>
-                <pressure unit="hPa" value="1014.2"></pressure>
+                <temperature unit="celsius" value="24.6"></temperature>
+                <pressure unit="hPa" value="1024.5"></pressure>
             </time>
             <time from="2021-07-05T08:00:00" to="2021-07-05T09:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0.1"></precipitation>
                 <windDirection deg="214.2" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.6" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="25.8"></temperature>
-                <pressure unit="hPa" value="1014.1"></pressure>
+                <temperature unit="celsius" value="23.9"></temperature>
+                <pressure unit="hPa" value="1024.4"></pressure>
             </time>
             <time from="2021-07-05T09:00:00" to="2021-07-05T10:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="222.6" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="4.3" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="26.5"></temperature>
-                <pressure unit="hPa" value="1013.9"></pressure>
+                <temperature unit="celsius" value="24.2"></temperature>
+                <pressure unit="hPa" value="1024.3"></pressure>
             </time>
             <time from="2021-07-05T10:00:00" to="2021-07-05T11:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="223.9" code="SW" name="Southwest"></windDirection>
                 <windSpeed mps="3.4" name="Gentle breeze"></windSpeed>
-                <temperature unit="celsius" value="25.9"></temperature>
-                <pressure unit="hPa" value="1013.6"></pressure>
+                <temperature unit="celsius" value="28.5"></temperature>
+                <pressure unit="hPa" value="1016.1"></pressure>
             </time>
             <time from="2021-07-05T11:00:00" to="2021-07-05T12:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="211.6" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="2.6" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="25.1"></temperature>
-                <pressure unit="hPa" value="1016.4"></pressure>
+                <temperature unit="celsius" value="28.9"></temperature>
+                <pressure unit="hPa" value="1016.1"></pressure>
             </time>
             <time from="2021-07-05T12:00:00" to="2021-07-05T13:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="198.0" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="2.4" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="25.3"></temperature>
-                <pressure unit="hPa" value="1016.5"></pressure>
+                <temperature unit="celsius" value="28.7"></temperature>
+                <pressure unit="hPa" value="1016.1"></pressure>
             </time>
             <time from="2021-07-05T13:00:00" to="2021-07-05T14:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="193.4" code="SSW" name="South-southwest"></windDirection>
                 <windSpeed mps="2.4" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="26.4"></temperature>
-                <pressure unit="hPa" value="1018.4"></pressure>
+                <temperature unit="celsius" value="27.6"></temperature>
+                <pressure unit="hPa" value="1016.0"></pressure>
             </time>
             <time from="2021-07-05T14:00:00" to="2021-07-05T15:00:00">
                 <symbol number="4" numberEx="4" name="Cloudy" var="04"></symbol>
                 <precipitation value="0"></precipitation>
                 <windDirection deg="189.5" code="S" name="South"></windDirection>
                 <windSpeed mps="2.7" name="Light breeze"></windSpeed>
-                <temperature unit="celsius" value="26.9"></temperature>
-                <pressure unit="hPa" value="1018.1"></pressure>
+                <temperature unit="celsius" value="27.8"></temperature>
+                <pressure unit="hPa" value="1016.0"></pressure>
             </time>
         </tabular>
     </forecast>

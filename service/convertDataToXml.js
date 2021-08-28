@@ -39,13 +39,44 @@ function getData(){
     var array = fs.readFileSync('./data.txt').toString().split("\n");
     let internal_temperature =[]
     let pressure =[]
+    let date = []
+    let time = []
+    let precipitation = []
+    let wind_direction = []
+    let wind_speed = []
+
+    contador_hora = 0
     //get data of the last 48 data from internal temperature
     for (let i = array.length - 49; i <array.length - 1; i++) {
+
         array_2 = JSON.parse(array[i]);
-        internal_temperature.push(array_2[16]);
-        pressure.push(array_2[11]);
+        
+        //CONFERÊNCIA DE HORA REDONDA 
+        if (array_2[1][3] == 0){
+            time.push(array_2[1])
+            date.push(array_2[0])
+
+            internal_temperature.push(array_2[16]);
+            pressure.push(array_2[11]);
+            precipitation.push(array_2[13]);
+            wind_direction.push(array_2[6]);
+            wind_speed.push(array_2[5]);
+
+            console.log(`Hora: ${time[contador_hora]}\nDia: ${date[contador_hora]}`)
+
+            contador_hora += 1
+        }
     }
-    weather_data = [internal_temperature, pressure]
+
+    console.log(time)
+    console.log(date)
+    console.log(internal_temperature)
+    console.log(pressure)
+    console.log(precipitation)
+    console.log(wind_direction)
+    console.log(wind_speed)
+
+    weather_data = [internal_temperature, pressure, date, time, precipitation, wind_direction, wind_speed]
     return weather_data
 }
 // needs a refactor in how we put the credits

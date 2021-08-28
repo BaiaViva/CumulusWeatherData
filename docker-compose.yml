@@ -1,0 +1,11 @@
+version: '2.0'
+
+services: 
+  cumulus:
+    container_name: cumulus_weather_data 
+    build: .
+    volumes: 
+      - .:/CumulusWeatherData
+    ports: 
+      - 49160:8080
+    restart: always 

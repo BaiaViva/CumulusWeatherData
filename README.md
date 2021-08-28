@@ -51,7 +51,7 @@ E agora, execute:
 sudo docker exec -it cumulus_weather_data bash
 ```
 
-Após executar este comando você, finalmente, possui acesso ao terminal do container, podendo executar por exemplo o comando: 
+Após executar este comando você finalmente possui acesso ao terminal do container, podendo executar por exemplo o comando: 
 
 ```node service/convertDataToXml.js```
 
